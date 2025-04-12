@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Júlia Cardozo! ヽ(•‿•)ノ
 
-<!--
-**juliaccardozo/juliaccardozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <div>
+    <a href="https://github.com/juliaccardozo">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juriacardozo&layout=compact&langs_count=7&theme=github_dark"/>
+    </a>
+  </div>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+  <a href="https://www.linkedin.com/in/juliacardozo" target="_blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="55"></a>
+    <a href="https://www.instagram.com/julia_cardz_?igsh=MWl3NGN6OXZ3a212cQ==" target="_blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" height="30" width="55" target="_blank"></a>
+    
+</div>
