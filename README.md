@@ -1,5 +1,3 @@
-# Hi, I’m Júlia Cardozo! ヽ(•‿•)ノ
-
 <div align="center">
   
 </div>
@@ -7,7 +5,7 @@
 <div align="center">
   <div>
     <a href="https://github.com/juliaccardozo">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juriacardozo&layout=compact&langs_count=7&theme=github_dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaccardozo&layout=compact&langs_count=7&theme=github_dark"/>
     </a>
   </div>
   
