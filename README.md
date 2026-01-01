@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-* I am a backend-focused software developer specialized in **Java and the Spring ecosystem**, graduated from the **Federal University of Technology – Paraná (UTFPR)**.  
+* I am a backend-focused software developer specialized in **Java**, graduated from the **Federal University of Technology – Paraná (UTFPR)**.  
 * I have experience developing and maintaining **enterprise-grade retail management systems**, working mainly with APIs, relational databases, and backend architecture.
 
 <p align="left"> 
